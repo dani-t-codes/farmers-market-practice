@@ -37,4 +37,6 @@ class ProduceControl extends React.Component {
   }
 }
 
+//<button onClick={this.handleClick(month.monthName)}>{buttonText}</button>
+
 export default ProduceControl;
